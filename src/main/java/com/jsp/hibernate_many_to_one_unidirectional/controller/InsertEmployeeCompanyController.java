@@ -6,7 +6,6 @@ public class InsertEmployeeCompanyController {
 	public static void main(String[] args) {
 		
 		
-	EmployeeCompanyDao dao = new EmployeeCompanyDao();
 	}
 
 }
